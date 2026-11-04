@@ -2,6 +2,8 @@
 
 **Automatic per-app volume ducking driven by your microphone.**
 
+**English** | [فارسی](README.fa.md)
+
 When you start talking, AutoDuck lowers the volume of *one app you choose* and
 lifts it back afterwards — like a producer ducking the music under a voice-over,
 except it happens on its own. Only the selected app is touched; system volume

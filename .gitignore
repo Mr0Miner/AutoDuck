@@ -8,6 +8,10 @@ build/
 dist/
 *.manifest
 
+# Packaged release archives (attach these to a GitHub Release instead)
+release/
+*.zip
+
 # Virtual environments
 .venv/
 venv/
